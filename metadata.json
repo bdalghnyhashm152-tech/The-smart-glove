@@ -1,0 +1,12 @@
+{
+  "name": "القفاز الذكي - Smart Glove",
+  "description": "تطبيق القفاز الذكي لترجمة لغة الإشارة إلى كلام ونصوص بالعربية والإنجليزية مع دعم البلوتوث والمستشعرات والمحادثة ثنائية الاتجاه",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
